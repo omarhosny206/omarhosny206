@@ -116,8 +116,6 @@
   </a>
 </p> -->
 
----
-
 <h3 align="center"><b>Connect with me</h3>
 <div style="margin-top:10px" align="center">
   <div>
@@ -135,8 +133,6 @@
   </div>
 </div>
 
----
-
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;"><b>Github stats</h2> 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -145,10 +141,8 @@
 
 </div>
 
----
 
 ![Snake animation](https://github.com/omarhosny206/omarhosny206/blob/output/github-contribution-grid-snake.svg)
 
----
 
 <b>Last Edited on: 12/06/2022</b>
