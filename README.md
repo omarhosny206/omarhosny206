@@ -1,10 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=omarhosny206&color=brightgreen)
 
-
-
-
-
-
 <h1 align="center">Hi, I'm Omar Hosny<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate Software Engineer. </h3>
 
@@ -14,7 +9,7 @@
 
 - Interested in Backend development.
 
-- Having strong CS fundmentals.
+- Having strong CS fundamentals.
 
 - Problem solver on [Leetcode](https://leetcode.com/omarhosny102).
 
