@@ -9,8 +9,6 @@
 
 - Interested in Backend development.
 
-- Having strong CS fundamentals.
-
 - Problem solver on [Leetcode](https://leetcode.com/omarhosny102).
 
 - Experienced in Spring and Express frameworks.
