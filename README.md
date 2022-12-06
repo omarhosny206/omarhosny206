@@ -165,4 +165,4 @@
 ![Snake animation](https://github.com/omarhosny206/omarhosny206/blob/output/github-contribution-grid-snake.svg)
 
 
-<b>Last Edited on: 12/06/2022</b>
+<b>Last edited on: 12/06/2022</b>
