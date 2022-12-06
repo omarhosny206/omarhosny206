@@ -1,13 +1,28 @@
 ![](https://komarev.com/ghpvc/?username=omarhosny206&color=brightgreen)
 
-<h1 align="center">Hi, I'm Omar Hosny<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate backend developer.</h3>
 
-- I’m interested in Backend development.
+
+
+
+
+<h1 align="center">Hi, I'm Omar Hosny<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">A passionate Software Engineer. </h3>
+
+
+<h1 align="center"><a href="https://drive.google.com/file/d/1grjJKoMzIsNGlHdda_Rq-PXOH01lfe-C/view?usp=sharing">Resume</a></h1>
+
+
+- Interested in Backend development.
+
+- Having strong CS fundmentals.
+
+- Problem solver on [Leetcode](https://leetcode.com/omarhosny102).
 
 - Experienced in Spring and Express frameworks.
 
-- ⚡ All of my projects are available [omarhosny206](https://github.com/omarhosny206)
+- Developed Backend projects that are available [here](https://github.com/omarhosny206?tab=repositories)
+
+
 
 <h3 align="center"><b>Languages</h3>
 <p align="center">
@@ -62,6 +77,18 @@
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
+  </a>
+</p>
+
+<h3 align="center"><b>ORMs</h3>
+<p align="center">
+ <a href="https://hibernate.org/orm/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"
+      alt="hibernate"/>
+  </a>
+  <a href="https://sequelize.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
+      alt="sequelize"/>
   </a>
 </p>
 
