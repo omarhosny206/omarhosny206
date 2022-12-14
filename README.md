@@ -19,6 +19,7 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;"></h2> 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+    
 [![Omar Hosny's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarhosny206&show_icons=true&bg_color=00000000)](https://github.com/omarhosny206)
 </div>
 
