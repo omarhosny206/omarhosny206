@@ -16,6 +16,14 @@
 - Developed Backend projects that are available [here](https://github.com/omarhosny206?tab=repositories)
 
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;"><b>Github stats</h2> 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+
+[![Omar Hosny's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarhosny206&show_icons=true&bg_color=00000000)](https://github.com/omarhosny206)
+
+</div>
+
 
 <h3 align="center"><b>Languages</h3>
 <p align="center">
@@ -152,17 +160,5 @@
     </a>
   </div>
 </div>
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;"><b>Github stats</h2> 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-
-[![Omar Hosny's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarhosny206&show_icons=true&bg_color=00000000)](https://github.com/omarhosny206)
-
-</div>
-
-
-![Snake animation](https://github.com/omarhosny206/omarhosny206/blob/output/github-contribution-grid-snake.svg)
-
 
 <b>Last edited on: 12/06/2022</b>
