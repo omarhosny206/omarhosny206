@@ -158,5 +158,3 @@
     </a>
   </div>
 </div>
-
-<b>Last edited on: 12/06/2022</b>
