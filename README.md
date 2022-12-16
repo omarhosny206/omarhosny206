@@ -94,7 +94,7 @@
 <h3 align="center"><b>ODMs</h3>
 <p align="center">
  <a href="https://mongoosejs.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Mongoose-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"
+    <img src="https://img.shields.io/badge/Mongoose-59666C?style=for-the-badge&logo=Mongoose&logoColor=white"
       alt="mongoose"/>
   </a>
 </p>
