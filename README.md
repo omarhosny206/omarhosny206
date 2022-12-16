@@ -90,6 +90,14 @@
       alt="sequelize"/>
   </a>
 </p>
+    
+<h3 align="center"><b>ODMs</h3>
+<p align="center">
+ <a href="https://mongoosejs.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Mongoose-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"
+      alt="mongoose"/>
+  </a>
+</p>
 
 <h3 align="center"><b>Caching</h3>
 <p align="center">
