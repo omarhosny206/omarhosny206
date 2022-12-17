@@ -15,7 +15,6 @@
 
 - Developed Backend projects that are available [here](https://github.com/omarhosny206?tab=repositories)
 
-
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;"></h2> 
     
