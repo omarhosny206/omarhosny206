@@ -1,23 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=omarhosny206&color=brightgreen)
 
-<h3 align="center"><b>Connect with me</h3>
-<div style="margin-top:10px" align="center">
-  <div>
-    <a  href="https://www.linkedin.com/in/omar-hosny-keshk-6a1088191/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://twitter.com/omar_hosny_k?s=09" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-    
-  <div>
-    <a href="https://leetcode.com/omarhosny102/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
-    </a>
-  </div>
-</div>
-	
-
 <h1 align="center">Hi, I'm Omar Hosny<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate Software Engineer. </h3>
 
@@ -178,5 +160,20 @@
 
 
 
-
+<h3 align="center"><b>Connect with me</h3>
+<div style="margin-top:10px" align="center">
+  <div>
+    <a  href="https://www.linkedin.com/in/omar-hosny-keshk-6a1088191/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://twitter.com/omar_hosny_k?s=09" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+    </a>
+    
+  <div>
+    <a href="https://leetcode.com/omarhosny102/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
+    </a>
+  </div>
+</div>
  
