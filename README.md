@@ -105,6 +105,7 @@
   </a>
 </p>
 
+<!--
 <h3 align="center"><b>Caching</h3>
 <p align="center">
  <a href="https://redis.io" target="_blank"> 
@@ -112,7 +113,9 @@
       alt="redis"/>
   </a>
 </p>
+-->
 
+<!--
 <h3 align="center"><b>Testing</h3>
 <p align="center"> 
   <a href="https://www.selenium.dev" target="_blank"> 
@@ -123,6 +126,7 @@
     <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
   </a> 
 </p>
+-->
 
 <h3 align="center"><b>Version Control & CI/CD</h3>
 <p align="center">
