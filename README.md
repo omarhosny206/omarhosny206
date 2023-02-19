@@ -7,7 +7,6 @@
 <h1 align="center">Hi, I'm Omar Hosny<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate Software Engineer. </h3>
 
-
 <!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=omarhosny206&label=Profile%20views&color=0047AB&style=plastic?" alt="omarhosny206" height=25px, width=160px/> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
