@@ -20,7 +20,6 @@
 
 
 
-
 <h1 align="center"><a href="https://drive.google.com/file/d/1grjJKoMzIsNGlHdda_Rq-PXOH01lfe-C/view?usp=sharing">Resume</a></h1>
 
 - Interested in Backend development.
