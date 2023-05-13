@@ -153,7 +153,7 @@
   </a>
 </p>
 	
-<h3 align="center"><b>Devops Tools</h3>
+<h3 align="center"><b>DevOps Tools</h3>
 <p align="center">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
