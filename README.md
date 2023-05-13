@@ -142,7 +142,7 @@
 </p>
 -->
 
-<h3 align="center"><b>Version Control & CI/CD</h3>
+<h3 align="center"><b>Version Control</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -151,9 +151,35 @@
   <a href="https://github.com/omarhosny206" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-    <a href="https://www.docker.com/" target="_blank">
+</p>
+	
+<h3 align="center"><b>Devops Tools</h3>
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>
+  </a>
+	
+  <a href="https://www.kuberenetes.com/" target="_blank">
+    <img src="https://camo.githubusercontent.com/61406e0657482c3aef4b1bd17a20fe71231f648a7926cfe7e5597d56da525b0c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4b756265726e6574657326636f6c6f723d333236434535266c6f676f3d4b756265726e65746573266c6f676f436f6c6f723d464646464646266c6162656c3d"
+      alt="kuberenetes"/>
+  </a>
+</p>
+	
+<h3 align="center"><b>Cloud</h3>
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://camo.githubusercontent.com/80d308b575eba9b5e7c5743493566354071b3b2324f406d6998eb498207415c3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b41575326636f6c6f723d323332463345266c6f676f3d416d617a6f6e2b415753266c6f676f436f6c6f723d464646464646266c6162656c3d"
+      alt="aws"/>
+  </a>
+	
+  <a href="https://aws.amazon.com/ec2/" target="_blank">
+    <img src="https://camo.githubusercontent.com/8343fac9f847924f1b065027914ca66ff80e8857526b7561e559a09013a18e81/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b45433226636f6c6f723d323232323232266c6f676f3d416d617a6f6e2b454332266c6f676f436f6c6f723d464639393030266c6162656c3d"
+      alt="aws ec2"/>
+  </a>
+  <a href="https://aws.amazon.com/s3/" target="_blank">
+    <img src="https://camo.githubusercontent.com/e72c2a6e52df2d1ff78867b6eafa3a97a48267bcbe22710fbf204883d056a6f7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b533326636f6c6f723d353639413331266c6f676f3d416d617a6f6e2b5333266c6f676f436f6c6f723d464646464646266c6162656c3d"
+      alt="aws s3"/>
   </a>
 </p>
 
