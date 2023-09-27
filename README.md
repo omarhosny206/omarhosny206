@@ -205,7 +205,7 @@
 
 <h3 align="center"><b>CI/CD</h3>
 <p align="center">
-  <a href="[https://www.docker.com/](https://docs.github.com/en/actions)" target="_blank">
+  <a href="https://docs.github.com/en/actions" target="_blank">
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"
       alt="GitHub Actions"/>
   </a>
