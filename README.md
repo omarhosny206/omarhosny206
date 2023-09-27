@@ -152,19 +152,6 @@
   </a>
 </p>
 	
-<h3 align="center"><b>DevOps Tools</h3>
-<p align="center">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
-	
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://camo.githubusercontent.com/61406e0657482c3aef4b1bd17a20fe71231f648a7926cfe7e5597d56da525b0c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4b756265726e6574657326636f6c6f723d333236434535266c6f676f3d4b756265726e65746573266c6f676f436f6c6f723d464646464646266c6162656c3d"
-      alt="kuberenetes"/>
-  </a>
-</p>
-	
 <h3 align="center"><b>Cloud</h3>
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
@@ -203,7 +190,26 @@
   </a>
 </p> -->
     
-    
+<h3 align="center"><b>DevOps Tools</h3>
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"/>
+  </a>
+	
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://camo.githubusercontent.com/61406e0657482c3aef4b1bd17a20fe71231f648a7926cfe7e5597d56da525b0c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4b756265726e6574657326636f6c6f723d333236434535266c6f676f3d4b756265726e65746573266c6f676f436f6c6f723d464646464646266c6162656c3d"
+      alt="kuberenetes"/>
+  </a>
+</p>
+
+<h3 align="center"><b>CI/CD</h3>
+<p align="center">
+  <a href="[https://www.docker.com/](https://docs.github.com/en/actions)" target="_blank">
+    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"
+      alt="GitHub Actions"/>
+  </a>
+</p>
 
 
 
