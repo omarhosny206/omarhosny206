@@ -30,7 +30,7 @@
 
 - Problem solver on [Leetcode](https://leetcode.com/omarhosny102).
 
-- Experienced in Spring and Express frameworks.
+- Experienced in Spring Boot and Express frameworks.
 
 - Developed Backend projects that are available [here](https://github.com/omarhosny206?tab=repositories)
 
