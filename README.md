@@ -138,17 +138,6 @@
   </a> 
 </p>
 -->
-
-<h3 align="center"><b>Version Control</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/omarhosny206" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-</p>
 	
 <h3 align="center"><b>Cloud</h3>
 <p align="center">
@@ -165,6 +154,17 @@
     <img src="https://camo.githubusercontent.com/e72c2a6e52df2d1ff78867b6eafa3a97a48267bcbe22710fbf204883d056a6f7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b533326636f6c6f723d353639413331266c6f676f3d416d617a6f6e2b5333266c6f676f436f6c6f723d464646464646266c6162656c3d"
       alt="aws s3"/>
   </a>
+
+<h3 align="center"><b>Message Queues</h3>
+<p align="center">
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"
+      alt="rabbitmq"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka" />
+  </a>
+</p>
 <!--   <a href="https://aws.amazon.com/sqs/" target="_blank">
     <img src="https://camo.githubusercontent.com/fc6e33181bd12a96f854fe2b7ad5eea13fec6a30020a2e89476ea16d3912680e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b53515326636f6c6f723d464634463842266c6f676f3d416d617a6f6e2b535153266c6f676f436f6c6f723d464646464646266c6162656c3d"
       alt="aws sqs"/>
@@ -209,7 +209,16 @@
   </a>
 </p>
 
-
+<h3 align="center"><b>Version Control</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/omarhosny206" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
 
 <h3 align="center"><b>Connect with me</h3>
 <div style="margin-top:10px" align="center">
