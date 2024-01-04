@@ -142,7 +142,7 @@
 <h3 align="center"><b>Cloud</h3>
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
       alt="aws"/>
   </a>
 	
