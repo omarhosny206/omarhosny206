@@ -126,18 +126,16 @@
 </p>
 -->
 
-<!--
-<h3 align="center"><b>Testing</h3>
+<h3 align="center"><b>Testing</b></h3>
 <p align="center"> 
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/mockito-43B02A.svg?style=for-the-badge&logo=mockito&logoColor=white"
-      alt="mockito" /> 
-  </a> 
   <a href="https://junit.org/junit5/" target="_blank"> 
     <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
   </a> 
+  <a href="https://site.mockito.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mockito-43B02A.svg?style=for-the-badge&logo=mockito&logoColor=white"
+      alt="mockito" /> 
+  </a> 
 </p>
--->
 	
 <h3 align="center"><b>Cloud</h3>
 <p align="center">
@@ -156,7 +154,7 @@
   </a>
   -->
 
-<h3 align="center"><b>Message Queues</h3>
+<h3 align="center"><b>Message Queues</b></h3>
 <p align="center">
   <a href="https://www.rabbitmq.com/" target="_blank">
     <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"
@@ -165,7 +163,11 @@
   <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka" />
   </a>
+  <a href="https://aws.amazon.com/sqs/" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="sqs" />
+  </a>
 </p>
+
 <!--   <a href="https://aws.amazon.com/sqs/" target="_blank">
     <img src="https://camo.githubusercontent.com/fc6e33181bd12a96f854fe2b7ad5eea13fec6a30020a2e89476ea16d3912680e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b53515326636f6c6f723d464634463842266c6f676f3d416d617a6f6e2b535153266c6f676f436f6c6f723d464646464646266c6162656c3d"
       alt="aws sqs"/>
@@ -237,6 +239,3 @@
     </a>
   </div>
 </div>
- 
-	
-	
